@@ -1,0 +1,30 @@
+p {
+	background-color: green;
+	max-width: 100%;
+}
+
+h1 {
+	color: red;
+}
+
+div {
+	border: 2px;
+	margin: 5px;
+}
+
+#third > p {
+	background-color: Blue;
+	display:  none;
+}
+
+h1 {
+	display:  none;
+}
+
+#second * {
+	visibility: hidden;
+}
+#second img {
+ 	visibility: visible;
+ 	max-width:  100%;
+ }

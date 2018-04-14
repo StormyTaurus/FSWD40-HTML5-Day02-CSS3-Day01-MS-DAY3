@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Title of the document</title>
+</head>
+
+<body>
+<main >
+<figure>
+	<img src="https://images.pexels.com/photos/414083/pexels-photo-414083.jpeg?cs=srgb&dl=beautiful-bloom-blooming-414083.jpg&fm=jpg" alt="This are pretty flowers in spring in the forest" width="80%">
+	<figcaption>This are pretty spring flowers in a forest - Source: pixabay.com </figcaption>
+</figure>
+
+<figure>
+	<img src="https://images.pexels.com/photos/33044/sunflower-sun-summer-yellow.jpg?cs=srgb&dl=agriculture-environment-flower-33044.jpg&fm=jpg" alt="This is a prett sunflower in summer." width="80%">
+	<figcaption>This is a prett sunflower in summer. - Source: pixabay.com </figcaption>
+</figure>
+
+<figure>
+	<img src="https://images.pexels.com/photos/33109/fall-autumn-red-season.jpg?cs=srgb&dl=autumn-colorful-colourful-33109.jpg&fm=jpg" alt="This is a Forest in autmn with red leaves on the ground." width="80%">
+	<figcaption>This is a Forest in autmn with red leaves on the ground. - Source: pixabay.com </figcaption>
+</figure>
+
+<figure>
+	<img src="https://images.pexels.com/photos/235621/pexels-photo-235621.jpeg?cs=srgb&dl=black-and-white-cold-fog-235621.jpg&fm=jpg" alt="This is a forest in winter full of snow." width="80%">
+	<figcaption>This is a forest in winter full of snow. - Source: pixabay.com </figcaption>
+</figure>
+</main>
+</body>
+
+</html>

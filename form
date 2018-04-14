@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Contact</h1>
+<form>
+
+Name:
+<br/>
+<input type="text" name="name-field" size="30" maxlength="40">
+<br/>
+
+Email:
+<br/>
+<input type="text" name="email-field" size="30" maxlength="40">
+<br/>
+
+Subject:
+<br/>
+<input type="text" name="subject-field" size="30" maxlength="40">
+<br/>
+
+Message:
+<br/>
+<textarea name="txt" rows="15" cols="50" maxlength="2500">
+	Insert your message here.
+
+</textarea>
+<br />
+<h4>Select gender:</h4> 
+
+<input type="radio" name="category" value="catgeory1">Category 1 <br/>
+<input type="radio" name="category" value="catgeory2">Category 2 <br/>
+<input type="radio" name="category" value="catgeory3">Category 3 <br/>
+<br />
+<input type="submit" value="Submit" style="width: 10vw"
+
+</form>
+
+</body>
+</html>
